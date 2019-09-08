@@ -1,0 +1,2 @@
+CurrencyConverter==0.13.9
+virtualenv==16.7.4
